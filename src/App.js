@@ -12,7 +12,6 @@ function App() {
     <TitleBar />
       <Switch>
       <Route exact path='/' component={MainScreen} />
-      <Route path='/charts' component={AllChart} />
       </Switch>
     </div>
     </Router>

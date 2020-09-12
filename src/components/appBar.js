@@ -25,14 +25,14 @@ export default function TitleBar() {
                     <Typography variant="h6" >
                         Coronavirus
                    </Typography>
-                    <PageLinks>
+                    {/* <PageLinks>
                         <Button align="left">
                             <Link style={{ textDecoration: "none", color: "white" }} to={'/'}>Dashboard</Link>
                         </Button>
                         <Button align="left">
                             <Link style={{ textDecoration: "none", color: "white" }} to={'/charts'}>Charts</Link>
                         </Button>
-                    </PageLinks>
+                    </PageLinks> */}
                 </Toolbar>
             </AppBar>
         </div>
