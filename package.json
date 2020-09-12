@@ -3,12 +3,24 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/lab": "^4.0.0-alpha.56",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "fusioncharts": "^3.15.2",
+    "geojson-world-map": "0.0.2",
+    "leaflet": "^1.7.1",
     "react": "^16.13.1",
+    "react-content-loader": "^5.1.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.3"
+    "react-fusioncharts": "^3.1.2",
+    "react-leaflet": "^2.7.0",
+    "react-leaflet-choropleth": "^2.0.1",
+    "react-number-format": "^4.4.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.3",
+    "styled-components": "^5.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
